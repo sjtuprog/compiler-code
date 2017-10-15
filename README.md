@@ -1,1 +1,2 @@
-Code for compiling principles.
+Code for compiler design.
+Based on Minipolaris.
